@@ -1,10 +1,10 @@
 {
   "name": "crlint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JS lint tool based on complexity reports",
   "main": "crlint.js",
   "bin": {
-      "crlint":"crlint.js"
+    "crlint": "crlint.js"
   },
   "dependencies": {
     "complexity-report": "~0.10.4",
