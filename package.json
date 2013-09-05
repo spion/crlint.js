@@ -1,7 +1,7 @@
 {
   "name": "crlint",
   "version": "0.1.0",
-  "description": "crlint - a lint tool based on complexity reports",
+  "description": "JS lint tool based on complexity reports",
   "main": "crlint.js",
   "bin": {
       "crlint":"crlint.js"
